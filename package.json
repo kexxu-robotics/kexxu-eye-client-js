@@ -1,0 +1,15 @@
+{
+  "name": "kexxu-eye-client-js",
+  "version": "1.0.0",
+  "description": "JavaScript client for the Kexxu Eye Tracking Glasses",
+  "main": "index.js",
+  "repository": "https://github.com/kexxu-robotics/kexxu-eye-client-js",
+  "author": "Jurriaan Schreuder",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "paho-mqtt": "^1.1.0"
+  },
+  "scripts": {
+  }
+}
